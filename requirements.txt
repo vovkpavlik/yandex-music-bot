@@ -1,0 +1,2 @@
+yandex-music==1.0.0
+environs==9.3.2
